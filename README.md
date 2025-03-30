@@ -18,11 +18,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iwan-LMX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -44,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
 
 <div align="left">
   <a href="iwan.li@outlook.com" target="_blank">
@@ -55,9 +52,9 @@
   </a>
 </div>
 
-###
 
-<div align="left">
+
+<div align="right">
   <a href="https://open.spotify.com/user/31hsxcfnpcdixgcj7msrdffpzany">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hsxcfnpcdixgcj7msrdffpzany&count=5" alt="Spotify recently played"  />
   </a>

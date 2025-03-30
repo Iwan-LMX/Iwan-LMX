@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div align="center" style="display:flex; flex-direction: row">
+<div align="center" style="display:flex; flex-direction: column">
     <img src="https://readme-typing-svg.demolab.com?font=Delius&size=30&pause=1000&color=B61E97E4&background=FF1E1E00&width=435&lines=Hello!+You+are+my" alt="Typing SVG" />
     <img src="https://count.getloli.com/@:Iwan-LMX?theme=booru-lisu" alt=":Iwan-LMX" />
     <img src="https://readme-typing-svg.demolab.com?font=Delius&size=30&pause=1000&color=B61E97E4&background=FF1E1E00&width=435&lines=Visotrs" alt="Typing SVG" />
@@ -13,8 +13,7 @@
 ###
 
 <br clear="both">
-<div>
-  <img src="https://streak-stats.demolab.com?user=Iwan-LMX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center" style="display:flex; flex-direction: row">
   <img src="https://github-readme-stats.vercel.app/api?username=Iwan-LMX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iwan-LMX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -52,7 +51,7 @@
         <!-- <div style="display: flex; flex-direction: column;"> -->
         <div> 
            <a href="iwan.li@outlook.com" target="_blank">
-                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"/>
             </a>
             <a href="https://www.linkedin.com/in/iwanli/" target="_blank">
                 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />

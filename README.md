@@ -22,7 +22,7 @@
 <br clear="both">
 
 
-<table border="0" align="center">
+<table align="center" style="border: none; border-collapse: collapse;">
  <tr>
     <td>
         <div>

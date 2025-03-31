@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center" style="display:flex; flex-direction: row">
-    <img src="https://readme-typing-svg.demolab.com?font=Delius&size=30&pause=1000&color=B61E97E4&background=FF1E1E00&width=435&lines=Wow!+You+are+visitor+number" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Delius&size=30&pause=1000&color=B61E97E4&background=FF1E1E00&width=435&lines=Wow!+You+are+my+visitor+number" alt="Typing SVG" />
     <img src="https://count.getloli.com/@:Iwan-LMX?theme=booru-lisu" alt=":Iwan-LMX" />
 </div>
 
